@@ -1,0 +1,1 @@
+C:\Mk4c\programowanie\FirstMauiApp\FirstMauiApp\FirstMauiApp.csproj;x64
