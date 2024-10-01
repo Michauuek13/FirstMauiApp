@@ -24359,24 +24359,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Uczen\\.nuget\\packages\\": {},
+    "C:\\Users\\Sala213\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mk4c\\programowanie\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
+      "projectUniqueName": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
       "projectName": "FirstMauiApp",
-      "projectPath": "C:\\Mk4c\\programowanie\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
-      "packagesPath": "C:\\Users\\Uczen\\.nuget\\packages\\",
-      "outputPath": "C:\\Mk4c\\programowanie\\FirstMauiApp\\FirstMauiApp\\obj\\",
+      "projectPath": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
+      "packagesPath": "C:\\Users\\Sala213\\.nuget\\packages\\",
+      "outputPath": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Uczen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sala213\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -24590,7 +24590,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -24694,7 +24694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -24799,7 +24799,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
@@ -24909,7 +24909,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

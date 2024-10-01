@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Mk4c\\programowanie\\FirstMauiApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E160FD64-B662-42D2-A12F-AEED80B3CCD3}|PrzelicznikApp\\PrzelicznikApp.csproj|c:\\mk4c\\firstmauiapp\\firstmauiapp\\przelicznikapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E160FD64-B662-42D2-A12F-AEED80B3CCD3}|PrzelicznikApp\\PrzelicznikApp.csproj|solutionrelative:przelicznikapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E160FD64-B662-42D2-A12F-AEED80B3CCD3}|PrzelicznikApp\\PrzelicznikApp.csproj|c:\\mk4c\\firstmauiapp\\firstmauiapp\\przelicznikapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E160FD64-B662-42D2-A12F-AEED80B3CCD3}|PrzelicznikApp\\PrzelicznikApp.csproj|solutionrelative:przelicznikapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AC4176-45DF-496D-9110-E24B5ADAC87C}|ShowCollectionMauiApp\\ShowCollectionMauiApp.csproj|c:\\mk4c\\firstmauiapp\\firstmauiapp\\showcollectionmauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41AC4176-45DF-496D-9110-E24B5ADAC87C}|ShowCollectionMauiApp\\ShowCollectionMauiApp.csproj|solutionrelative:showcollectionmauiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AC4176-45DF-496D-9110-E24B5ADAC87C}|ShowCollectionMauiApp\\ShowCollectionMauiApp.csproj|c:\\mk4c\\firstmauiapp\\firstmauiapp\\showcollectionmauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41AC4176-45DF-496D-9110-E24B5ADAC87C}|ShowCollectionMauiApp\\ShowCollectionMauiApp.csproj|solutionrelative:showcollectionmauiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\PrzelicznikApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PrzelicznikApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\PrzelicznikApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "PrzelicznikApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:36:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\PrzelicznikApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PrzelicznikApp\\MainPage.xaml",
+              "ToolTip": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\PrzelicznikApp\\MainPage.xaml",
+              "RelativeToolTip": "PrzelicznikApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T09:35:05.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\ShowCollectionMauiApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShowCollectionMauiApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\ShowCollectionMauiApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "ShowCollectionMauiApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:57:18.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\ShowCollectionMauiApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ShowCollectionMauiApp\\MainPage.xaml",
+              "ToolTip": "C:\\MK4C\\FirstMauiApp\\FirstMauiApp\\ShowCollectionMauiApp\\MainPage.xaml",
+              "RelativeToolTip": "ShowCollectionMauiApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T10:56:03.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
